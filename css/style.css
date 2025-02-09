@@ -295,7 +295,7 @@ row-gap: 9.6rem;
   }
   
   /* STICKY NAVIGATION */
-  .sticky .header {
+  .sticky {
     position: fixed;
     top: 0;
     bottom: 0;
@@ -308,7 +308,7 @@ row-gap: 9.6rem;
     box-shadow: 0 1.2rem 3.2rem rgba(0, 0, 0, 0.03);
   }
   
-  .sticky .section-hero {
+  .sticky {
     margin-top: 9.6rem;
   }
   
@@ -993,7 +993,7 @@ width: 100%;
     outline: none;
     /* outline: 4px dotted #e67e22; */
     /* outline-offset: 8px; */
-    box-shadow: 0 0 0 0.8rem rgba(230, 125, 34, 0.5);
+    box-shadow: 0 0 0 0.8rem rgba(34, 139, 230, 0.5);
   }
   
 
